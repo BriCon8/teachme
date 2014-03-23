@@ -1,0 +1,9 @@
+@font-face{
+	font-family: Bebas;
+	src: url(/fonts/BebasNeue.otf);
+}
+
+body {
+	font-family: Bebas;
+	background-color: #ecf0f1;
+}
